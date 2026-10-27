@@ -11,7 +11,7 @@ SQLite, and will visualize it with a Plotly Dash dashboard.
 ```
 finance-dashboard/
 ├── data/
-│   ├── generate_mock_data.py   # 200 seeded mock transactions -> data/transactions.csv
+│   ├── generate_mock_data.py   # 200 seeded mock transactions + 3 planted outliers -> data/transactions.csv
 │   └── transactions.csv
 ├── pipeline/
 │   ├── ingest.py               # load_transactions(filepath)
@@ -38,6 +38,9 @@ python data/generate_mock_data.py
 - [x] Ingestion with column validation, null/duplicate handling (`pipeline/ingest.py`)
 - [x] **1. Get on GitHub:** `.gitignore`, package `__init__.py` files, README, first push
 - [ ] **2.** Run and fix `pipeline/transform.py`; write `pipeline/load.py` (SQLite)
+  - [x] Rebuild `.venv` on Python 3.13
+  - [x] Plant outliers in the mock data so `flag_anomalies` has something to find
+  - [ ] Write `pipeline/load.py`
 - [ ] **3.** Refactor into testable stages: `ingest`, `validate`, `clean`, `anomalies`
 - [ ] **4.** pytest suite, coverage, and GitHub Actions CI (see `docs/testing-plan.md`)
 - [ ] **5.** Plotly Dash dashboard (`dashboard/app.py`) reading from SQLite, plus a smoke test

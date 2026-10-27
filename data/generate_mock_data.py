@@ -22,6 +22,15 @@ CATEGORY_RANGES = {
     "Shopping":      (15, 250),
 }
 
+# Deliberately large purchases, far above each category's normal range, so that
+# flag_anomalies has something to find. Uniform random amounts alone can never
+# reach a z-score of 2 (max is about 1.73).
+OUTLIERS = [
+    ("Dining Out", 450.00, "Group birthday dinner"),
+    ("Shopping",   1800.00, "New laptop"),
+    ("Healthcare", 2500.00, "Emergency room visit"),
+]
+
 random.seed(42)
 
 def generate_transactions(n=NUM_TRANSACTIONS):
@@ -38,7 +47,17 @@ def generate_transactions(n=NUM_TRANSACTIONS):
             "amount": amount,
             "description": f"{category} purchase #{i + 1}"
         })
-    return pd.DataFrame(transactions).sort_values("date").reset_index(drop=True)
+    # Added after the loop so the 200 normal rows stay identical to before
+    for category, amount, description in OUTLIERS:
+        date = START_DATE + timedelta(days=random.randint(0, 364))
+        transactions.append({
+            "transaction_id": len(transactions) + 1,
+            "date": date.strftime("%Y-%m-%d"),
+            "category": category,
+            "amount": amount,
+            "description": description
+        })
+    return pd.DataFrame(transactions).sort_values(["date", "transaction_id"]).reset_index(drop=True)
 
 if __name__ == "__main__":
     df = generate_transactions()
