@@ -1,0 +1,201 @@
+transaction_id,date,category,amount,description
+143,2024-01-01,Entertainment,46.55,Entertainment purchase #143
+7,2024-01-04,Entertainment,82.85,Entertainment purchase #7
+57,2024-01-04,Dining Out,51.19,Dining Out purchase #57
+37,2024-01-06,Entertainment,97.4,Entertainment purchase #37
+3,2024-01-17,Rent,1213.34,Rent purchase #3
+59,2024-01-17,Dining Out,14.72,Dining Out purchase #59
+121,2024-01-20,Rent,1067.78,Rent purchase #121
+87,2024-01-21,Dining Out,50.52,Dining Out purchase #87
+113,2024-01-21,Entertainment,42.82,Entertainment purchase #113
+112,2024-01-22,Transport,31.49,Transport purchase #112
+33,2024-01-25,Shopping,36.36,Shopping purchase #33
+187,2024-01-27,Groceries,94.9,Groceries purchase #187
+66,2024-01-28,Shopping,218.0,Shopping purchase #66
+24,2024-01-29,Dining Out,57.92,Dining Out purchase #24
+81,2024-01-30,Groceries,94.8,Groceries purchase #81
+75,2024-01-31,Dining Out,70.53,Dining Out purchase #75
+58,2024-01-31,Rent,1295.49,Rent purchase #58
+136,2024-02-05,Dining Out,35.5,Dining Out purchase #136
+125,2024-02-05,Healthcare,111.91,Healthcare purchase #125
+84,2024-02-05,Rent,1395.94,Rent purchase #84
+188,2024-02-05,Utilities,83.63,Utilities purchase #188
+92,2024-02-07,Shopping,89.3,Shopping purchase #92
+151,2024-02-07,Shopping,158.65,Shopping purchase #151
+70,2024-02-08,Entertainment,51.64,Entertainment purchase #70
+64,2024-02-19,Healthcare,73.31,Healthcare purchase #64
+10,2024-02-19,Rent,864.92,Rent purchase #10
+2,2024-02-22,Dining Out,25.62,Dining Out purchase #2
+100,2024-02-23,Entertainment,93.86,Entertainment purchase #100
+155,2024-02-24,Groceries,109.27,Groceries purchase #155
+101,2024-02-24,Transport,23.22,Transport purchase #101
+42,2024-02-24,Transport,35.38,Transport purchase #42
+195,2024-02-25,Transport,58.24,Transport purchase #195
+109,2024-02-27,Healthcare,177.05,Healthcare purchase #109
+194,2024-02-28,Transport,40.29,Transport purchase #194
+128,2024-02-29,Utilities,190.89,Utilities purchase #128
+179,2024-03-06,Transport,52.03,Transport purchase #179
+32,2024-03-11,Healthcare,121.36,Healthcare purchase #32
+29,2024-03-12,Shopping,48.57,Shopping purchase #29
+154,2024-03-16,Shopping,108.92,Shopping purchase #154
+116,2024-03-20,Healthcare,292.67,Healthcare purchase #116
+40,2024-03-21,Rent,1005.45,Rent purchase #40
+34,2024-03-22,Rent,906.99,Rent purchase #34
+44,2024-03-23,Dining Out,20.7,Dining Out purchase #44
+146,2024-03-27,Dining Out,45.78,Dining Out purchase #146
+21,2024-03-28,Rent,1226.39,Rent purchase #21
+142,2024-03-30,Healthcare,209.65,Healthcare purchase #142
+117,2024-03-31,Dining Out,70.52,Dining Out purchase #117
+69,2024-04-03,Shopping,47.94,Shopping purchase #69
+182,2024-04-03,Transport,53.34,Transport purchase #182
+68,2024-04-07,Rent,974.06,Rent purchase #68
+124,2024-04-08,Dining Out,11.66,Dining Out purchase #124
+197,2024-04-11,Healthcare,131.06,Healthcare purchase #197
+149,2024-04-11,Entertainment,30.22,Entertainment purchase #149
+103,2024-04-14,Dining Out,60.23,Dining Out purchase #103
+89,2024-04-14,Utilities,190.21,Utilities purchase #89
+26,2024-04-18,Healthcare,94.97,Healthcare purchase #26
+94,2024-04-19,Rent,851.28,Rent purchase #94
+61,2024-04-19,Entertainment,70.21,Entertainment purchase #61
+192,2024-04-21,Rent,1194.78,Rent purchase #192
+55,2024-04-25,Shopping,43.44,Shopping purchase #55
+16,2024-04-26,Rent,832.08,Rent purchase #16
+123,2024-04-26,Utilities,95.78,Utilities purchase #123
+167,2024-04-28,Rent,896.86,Rent purchase #167
+17,2024-04-29,Entertainment,98.67,Entertainment purchase #17
+4,2024-04-29,Groceries,29.37,Groceries purchase #4
+85,2024-04-30,Rent,1272.65,Rent purchase #85
+148,2024-04-30,Utilities,64.01,Utilities purchase #148
+60,2024-05-01,Utilities,60.63,Utilities purchase #60
+73,2024-05-01,Groceries,116.9,Groceries purchase #73
+47,2024-05-03,Entertainment,31.55,Entertainment purchase #47
+150,2024-05-05,Transport,11.22,Transport purchase #150
+189,2024-05-06,Groceries,95.42,Groceries purchase #189
+162,2024-05-06,Shopping,75.91,Shopping purchase #162
+114,2024-05-07,Utilities,81.51,Utilities purchase #114
+119,2024-05-07,Healthcare,244.63,Healthcare purchase #119
+157,2024-05-07,Shopping,26.8,Shopping purchase #157
+104,2024-05-08,Entertainment,55.49,Entertainment purchase #104
+107,2024-05-14,Transport,41.86,Transport purchase #107
+41,2024-05-14,Shopping,15.76,Shopping purchase #41
+129,2024-05-15,Entertainment,26.07,Entertainment purchase #129
+176,2024-05-19,Dining Out,44.18,Dining Out purchase #176
+164,2024-05-20,Shopping,162.29,Shopping purchase #164
+1,2024-05-20,Rent,817.51,Rent purchase #1
+165,2024-05-26,Shopping,33.21,Shopping purchase #165
+79,2024-05-31,Shopping,51.38,Shopping purchase #79
+91,2024-06-02,Transport,43.58,Transport purchase #91
+138,2024-06-02,Rent,1303.83,Rent purchase #138
+199,2024-06-03,Dining Out,17.13,Dining Out purchase #199
+131,2024-06-09,Utilities,159.28,Utilities purchase #131
+25,2024-06-10,Dining Out,67.53,Dining Out purchase #25
+166,2024-06-12,Dining Out,29.02,Dining Out purchase #166
+139,2024-06-16,Entertainment,70.02,Entertainment purchase #139
+183,2024-06-16,Groceries,46.02,Groceries purchase #183
+106,2024-06-19,Entertainment,13.97,Entertainment purchase #106
+118,2024-06-19,Healthcare,26.94,Healthcare purchase #118
+9,2024-06-21,Entertainment,23.99,Entertainment purchase #9
+184,2024-06-21,Dining Out,41.83,Dining Out purchase #184
+67,2024-06-22,Rent,842.43,Rent purchase #67
+39,2024-06-23,Entertainment,79.17,Entertainment purchase #39
+8,2024-06-23,Transport,44.91,Transport purchase #8
+95,2024-06-27,Entertainment,21.92,Entertainment purchase #95
+174,2024-06-29,Healthcare,153.55,Healthcare purchase #174
+19,2024-06-30,Utilities,74.4,Utilities purchase #19
+46,2024-07-04,Groceries,31.19,Groceries purchase #46
+193,2024-07-07,Shopping,179.37,Shopping purchase #193
+96,2024-07-08,Rent,1415.49,Rent purchase #96
+111,2024-07-08,Transport,37.28,Transport purchase #111
+13,2024-07-12,Rent,1481.18,Rent purchase #13
+22,2024-07-13,Dining Out,21.44,Dining Out purchase #22
+153,2024-07-15,Dining Out,60.28,Dining Out purchase #153
+35,2024-07-16,Healthcare,186.99,Healthcare purchase #35
+76,2024-07-18,Transport,28.95,Transport purchase #76
+177,2024-07-18,Healthcare,155.98,Healthcare purchase #177
+90,2024-07-21,Utilities,85.8,Utilities purchase #90
+53,2024-07-23,Dining Out,59.91,Dining Out purchase #53
+178,2024-07-26,Utilities,150.33,Utilities purchase #178
+169,2024-07-27,Dining Out,14.5,Dining Out purchase #169
+65,2024-07-29,Healthcare,119.2,Healthcare purchase #65
+170,2024-07-31,Utilities,131.39,Utilities purchase #170
+175,2024-08-02,Entertainment,77.81,Entertainment purchase #175
+185,2024-08-03,Healthcare,97.91,Healthcare purchase #185
+171,2024-08-03,Groceries,40.68,Groceries purchase #171
+105,2024-08-04,Groceries,29.23,Groceries purchase #105
+31,2024-08-07,Entertainment,77.23,Entertainment purchase #31
+181,2024-08-07,Groceries,28.39,Groceries purchase #181
+144,2024-08-08,Entertainment,35.82,Entertainment purchase #144
+130,2024-08-10,Groceries,30.84,Groceries purchase #130
+159,2024-08-14,Utilities,192.51,Utilities purchase #159
+145,2024-08-14,Utilities,119.75,Utilities purchase #145
+18,2024-08-20,Rent,1066.09,Rent purchase #18
+77,2024-08-20,Entertainment,93.39,Entertainment purchase #77
+12,2024-08-23,Entertainment,82.64,Entertainment purchase #12
+122,2024-08-23,Shopping,67.27,Shopping purchase #122
+158,2024-08-25,Rent,1119.52,Rent purchase #158
+36,2024-08-27,Healthcare,186.85,Healthcare purchase #36
+186,2024-08-28,Entertainment,85.14,Entertainment purchase #186
+63,2024-08-30,Shopping,72.1,Shopping purchase #63
+191,2024-08-30,Transport,21.93,Transport purchase #191
+50,2024-08-31,Transport,16.42,Transport purchase #50
+161,2024-08-31,Shopping,225.84,Shopping purchase #161
+74,2024-09-03,Transport,30.32,Transport purchase #74
+48,2024-09-05,Rent,859.96,Rent purchase #48
+45,2024-09-07,Groceries,79.89,Groceries purchase #45
+27,2024-09-12,Utilities,81.89,Utilities purchase #27
+82,2024-09-14,Groceries,78.42,Groceries purchase #82
+43,2024-09-16,Entertainment,85.75,Entertainment purchase #43
+83,2024-09-17,Transport,12.84,Transport purchase #83
+126,2024-09-17,Entertainment,41.6,Entertainment purchase #126
+132,2024-09-18,Healthcare,189.74,Healthcare purchase #132
+54,2024-09-21,Utilities,115.72,Utilities purchase #54
+163,2024-09-23,Entertainment,78.92,Entertainment purchase #163
+49,2024-09-29,Rent,1484.59,Rent purchase #49
+127,2024-10-01,Healthcare,210.27,Healthcare purchase #127
+38,2024-10-01,Rent,1277.2,Rent purchase #38
+30,2024-10-02,Dining Out,62.15,Dining Out purchase #30
+135,2024-10-02,Healthcare,20.47,Healthcare purchase #135
+52,2024-10-03,Healthcare,290.02,Healthcare purchase #52
+72,2024-10-03,Rent,835.41,Rent purchase #72
+97,2024-10-05,Entertainment,24.2,Entertainment purchase #97
+160,2024-10-07,Healthcare,252.56,Healthcare purchase #160
+71,2024-10-08,Shopping,204.89,Shopping purchase #71
+108,2024-10-09,Transport,47.06,Transport purchase #108
+99,2024-10-10,Groceries,86.79,Groceries purchase #99
+140,2024-10-10,Healthcare,215.22,Healthcare purchase #140
+78,2024-10-11,Entertainment,48.07,Entertainment purchase #78
+115,2024-10-13,Rent,1047.58,Rent purchase #115
+93,2024-10-15,Groceries,65.83,Groceries purchase #93
+200,2024-10-16,Rent,1357.36,Rent purchase #200
+86,2024-10-18,Healthcare,53.57,Healthcare purchase #86
+62,2024-10-19,Transport,46.17,Transport purchase #62
+173,2024-10-21,Groceries,105.67,Groceries purchase #173
+196,2024-10-21,Groceries,112.89,Groceries purchase #196
+133,2024-10-22,Rent,1069.64,Rent purchase #133
+80,2024-10-23,Dining Out,77.81,Dining Out purchase #80
+88,2024-10-25,Rent,1093.46,Rent purchase #88
+172,2024-10-26,Healthcare,273.35,Healthcare purchase #172
+6,2024-10-28,Healthcare,81.72,Healthcare purchase #6
+56,2024-10-28,Rent,1036.66,Rent purchase #56
+180,2024-10-30,Groceries,110.69,Groceries purchase #180
+11,2024-11-05,Utilities,177.12,Utilities purchase #11
+102,2024-11-05,Transport,23.62,Transport purchase #102
+51,2024-11-06,Transport,23.25,Transport purchase #51
+190,2024-11-14,Dining Out,68.75,Dining Out purchase #190
+14,2024-11-17,Rent,1186.43,Rent purchase #14
+198,2024-11-17,Rent,1214.47,Rent purchase #198
+152,2024-11-18,Shopping,112.39,Shopping purchase #152
+23,2024-11-23,Entertainment,99.06,Entertainment purchase #23
+28,2024-11-25,Healthcare,267.71,Healthcare purchase #28
+5,2024-11-28,Groceries,76.12,Groceries purchase #5
+98,2024-11-30,Entertainment,65.05,Entertainment purchase #98
+147,2024-12-05,Rent,998.65,Rent purchase #147
+137,2024-12-05,Utilities,143.47,Utilities purchase #137
+141,2024-12-06,Transport,19.59,Transport purchase #141
+110,2024-12-19,Rent,1461.54,Rent purchase #110
+156,2024-12-22,Healthcare,81.28,Healthcare purchase #156
+20,2024-12-25,Dining Out,56.91,Dining Out purchase #20
+120,2024-12-25,Entertainment,24.33,Entertainment purchase #120
+15,2024-12-26,Utilities,136.6,Utilities purchase #15
+168,2024-12-27,Healthcare,214.31,Healthcare purchase #168
+134,2024-12-28,Dining Out,27.83,Dining Out purchase #134
