@@ -36,7 +36,7 @@ python data/generate_mock_data.py
 
 - [x] Mock data generator (`data/generate_mock_data.py`)
 - [x] Ingestion with column validation, null/duplicate handling (`pipeline/ingest.py`)
-- [ ] **1. Get on GitHub:** `.gitignore`, package `__init__.py` files, README, first push
+- [x] **1. Get on GitHub:** `.gitignore`, package `__init__.py` files, README, first push
 - [ ] **2.** Run and fix `pipeline/transform.py`; write `pipeline/load.py` (SQLite)
 - [ ] **3.** Refactor into testable stages: `ingest`, `validate`, `clean`, `anomalies`
 - [ ] **4.** pytest suite, coverage, and GitHub Actions CI (see `docs/testing-plan.md`)
